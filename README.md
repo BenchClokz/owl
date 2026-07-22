@@ -28,30 +28,14 @@ apps métier       automatisation qualité · centralisation données (WPF / .NE
 discord           bots réseau multi-serveurs · portails annuaires · panels
 ```
 
-### `~/ stats`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BenchClokz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=a371f7&icon_color=a371f7&text_color=8b949e&bg_color=0d1117&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenchClokz&layout=compact&hide_border=true&langs_count=10&title_color=a371f7&text_color=8b949e&bg_color=0d1117&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BenchClokz&hide_border=true&background=0d1117&stroke=21262d&ring=a371f7&fire=a371f7&currStreakLabel=a371f7&sideLabels=8b949e&dates=6e7681&currStreakNum=f0f6fc&sideNums=f0f6fc" />
-</p>
-
 ### `~/ activité`
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenchClokz&bg_color=0d1117&color=f0f6fc&line=a371f7&point=f0f6fc&area=true&area_color=a371f7&hide_border=true&custom_title=Contributions" width="98%" />
 </p>
 
-### `~/ trophées`
+### `~/ snake`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BenchClokz&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+  <img alt="snake" src="https://raw.githubusercontent.com/BenchClokz/BenchClokz/output/github-snake-dark.svg" width="100%" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenchClokz/BenchClokz/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/BenchClokz/BenchClokz/output/github-snake.svg" width="100%" />
-</picture>
