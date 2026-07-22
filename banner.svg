@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" fill="none">
   <rect width="900" height="220" fill="#0d1117"/>
   <rect x="0.5" y="0.5" width="899" height="219" fill="none" stroke="#21262d" stroke-width="1"/>
-  <line x1="60" y1="72" x2="60" y2="148" stroke="#f0f6fc" stroke-width="2"/>
+  <line x1="60" y1="72" x2="60" y2="148" stroke="#a371f7" stroke-width="2"/>
   <text x="90" y="98" font-family="'SF Mono','Consolas',monospace" font-size="34" font-weight="700" fill="#f0f6fc" letter-spacing="1">Owl</text>
-  <text x="90" y="130" font-family="'SF Mono','Consolas',monospace" font-size="15" fill="#8b949e" letter-spacing="1.5">Développeur &amp; bâtisseur d'outils communautaires</text>
-  <text x="90" y="156" font-family="'SF Mono','Consolas',monospace" font-size="12" fill="#6e7681" letter-spacing="1">automation · self-hosting · UX · community platforms</text>
-  <text x="760" y="98" font-family="'SF Mono','Consolas',monospace" font-size="11" fill="#30363d">// ~10y</text>
-  <text x="760" y="114" font-family="'SF Mono','Consolas',monospace" font-size="11" fill="#30363d">// community</text>
+  <text x="90" y="130" font-family="'SF Mono','Consolas',monospace" font-size="15" fill="#a371f7" letter-spacing="1.5">Développeur &amp; bâtisseur d'outils communautaires</text>
+  <text x="90" y="156" font-family="'SF Mono','Consolas',monospace" font-size="12" fill="#8b949e" letter-spacing="1">automation · self-hosting · UX · community platforms</text>
+  <text x="760" y="98" font-family="'SF Mono','Consolas',monospace" font-size="11" fill="#6e40c9">// ~10y</text>
+  <text x="760" y="114" font-family="'SF Mono','Consolas',monospace" font-size="11" fill="#6e40c9">// community</text>
 </svg>
