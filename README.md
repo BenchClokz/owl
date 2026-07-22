@@ -34,8 +34,8 @@ discord           bots réseau multi-serveurs · portails annuaires · panels
 ### `~/ stats`
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BenchClokz&show_icons=true&hide_border=true&count_private=true&title_color=f0f6fc&icon_color=8b949e&text_color=8b949e&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenchClokz&layout=compact&hide_border=true&langs_count=8&title_color=f0f6fc&text_color=8b949e&bg_color=0d1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BenchClokz&show_icons=true&hide_border=true&count_private=true&title_color=f0f6fc&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenchClokz&layout=compact&hide_border=true&langs_count=8&title_color=f0f6fc&text_color=8b949e&bg_color=0d1117&cache_seconds=86400" />
 </p>
 
 <p align="center">
